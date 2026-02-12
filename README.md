@@ -110,7 +110,7 @@ From that initial gate, the methodology moves through twelve stages across four 
 
 **Gate 4: Final Editorial Decisions** — The final human gate where editorial judgment shapes the published output. Every word that reaches the reader has passed through human hands.
 
-## Why This Matters
+## Relevance
 
 There's a deliberate self-reference in this work.
 
