@@ -114,7 +114,7 @@ From that initial gate, the methodology moves through twelve stages across four 
 
 There's a deliberate self-reference in this work.
 
-Signal 5 argues that the organizations achieving transformation — the 6% identified in McKinsey's research — aren't the ones with better AI. They're the ones who redesigned how humans and AI work together, concentrating human judgment where it creates irreplaceable value and deploying AI where breadth and speed matter.
+Signal 5 argues that the organizations achieving transformation — the top organizations aren't the ones with better AI. They're the ones who redesigned how humans and AI work together, concentrating human judgment where it creates irreplaceable value and deploying AI where breadth and speed matter.
 
 This report was produced through exactly that kind of redesign. Human expertise set the intent, made every strategic judgment call, and maintained quality standards throughout. AI systems provided the analytical breadth, cross-domain synthesis, and production capability that no human team could match in the same timeframe.
 
