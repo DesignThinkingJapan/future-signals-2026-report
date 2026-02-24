@@ -122,7 +122,7 @@ The methodology is the thesis made real. We don't just write about the Architect
 
 ## Repository Contents
 
-- **[Future Signals 2026 — Full Report (English)](https://www.designthinkingjapan.com/thinking)**
+- **<a href="https://www.designthinkingjapan.com/thinking" target="_blank">Future Signals 2026 — Full Report (English)</a>**
 - **[Architecture Diagram](methodology/architecture.png)** — Synthesized Intelligence 2026 system architecture
 
 ## About Design Thinking Japan
